@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540646183974",
+    "project_id": "customcalender-e48c4",
+    "storage_bucket": "customcalender-e48c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540646183974:android:702aab0473459a6b1442e7",
+        "android_client_info": {
+          "package_name": "com.parat.calender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540646183974-0e54kjo4anb6rhufqs9qeuq0jkfurfop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv9rkYssxx0j_pKZ8CDLpb6dZIPzal7Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540646183974-0e54kjo4anb6rhufqs9qeuq0jkfurfop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
